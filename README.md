@@ -6,10 +6,10 @@ This is a linux cmd. It replaces all instances of a given string with another on
 
 The format is as follows:
 
-replac3 <old_string> <new_string> <filename>
+- replac3 oldString newSring filename
 
 e.g
-		replace private public window.java
+			replace private public window.java
 
 ##Dependecies
 This code is merely a 'script'. It uses sed to achieve it's task
